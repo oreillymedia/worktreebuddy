@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>WorkTreeBuddy</title>
+        <description>Updates for WorkTreeBuddy</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <pubDate>Fri, 18 Jul 2025 22:19:25 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <description><![CDATA[
+### Added
+- Initial release of WorkTreeBuddy
+- Menu bar application for managing Git worktrees
+- List all worktrees with status indicators
+- Open worktrees in IDE, Terminal, or Git client
+- Delete worktree functionality
+- Automatic refresh on file system changes
+- Preferences window for configuring applications
+- Support for macOS 15+
+- Sparkle integration for automatic updates
+- "Check for Updates..." menu option
+- Release automation scripts for building and distributing
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/WorkTreeBuddy/releases/download/v1.0.0/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="2915776"
+                       sparkle:edSignature="dTMUeaFcvlcYfH3N6BbrgU7pSJKTvgRO45KZDi0ydEq4yRSwFgfGxtr3lVZszDf3P+lWci2WN9LwrDidZDaDCQ==" />
+        </item>
+    </channel>
+</rss>
