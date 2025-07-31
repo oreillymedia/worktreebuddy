@@ -5,6 +5,61 @@
         <description>Updates for WorkTreeBuddy</description>
         <language>en</language>
         <item>
+            <title>Version 1.1.0</title>
+            <pubDate>Wed, 31 Jul 2025 15:00:00 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <description><![CDATA[
+            
+            ### Added
+            - Visual indicator (orange dot) for worktrees with uncommitted changes
+            - Preference option to bypass deletion confirmation dialogs
+            - Force deletion of worktrees with uncommitted changes using `--force` flag
+            
+            ### Changed
+            - Improved deletion warning dialog to explicitly mention loss of uncommitted changes, untracked files, and stashed work
+            - Optimized dirty status checking to run asynchronously in the background
+            - Added throttling to prevent excessive status checks (limited to once every 5 seconds)
+            
+            ### Fixed
+            - Loading screen appearing too frequently when checking worktree status
+            - Performance improvement by removing synchronous dirty checking during initial load
+            
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.1.0/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       sparkle:edSignature="Sgle2kk0+C2auoti3fIQzGXw4rwLpyWPiFm/hIchirNF97nOGtQlif7JOCJkT7jyodku1JUD2ebG22JEQWjBAA=="
+                       length="2938461" />
+        </item>
+        <item>
+            <title>Version 1.0.1</title>
+            <pubDate>Fri, 25 Jul 2025 21:08:10 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <description><![CDATA[
+            
+            ### Added
+            - Comprehensive README documentation
+            - Public-facing README for end users
+            - Release workflow automation script
+            - Enhanced .gitignore with Sparkle keys and IDE patterns
+            
+            ### Changed
+            - Updated build and release scripts for dual repository distribution model
+            - Repository structure now separates internal source (worktreebuddysource) from public releases (worktreebuddy)
+            - Appcast URL now points to public repository
+            - Improved setup script to check for Sparkle keys in Keychain
+            
+            ### Fixed
+            - Removed tracked xcuserdata directory from version control
+            
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.0.1/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="2915685"
+                       sparkle:edSignature="jT/WbCpY+boqztySHzlWG1q+PyzWRivUrMzET4tjQoNs5aaOVSDPUiwGFBQeHtJwT8RhHSmkaCdvZNgc0ZXuCg==" />
+        </item>
+        <item>
             <title>Version 1.0.0</title>
             <pubDate>Fri, 18 Jul 2025 22:19:25 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
