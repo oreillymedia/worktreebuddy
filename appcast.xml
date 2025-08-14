@@ -10,7 +10,10 @@
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <description><![CDATA[
-
+Critical fix for app startup hanging issue:
+• Fixed main thread blocking during app initialization
+• Improved performance and responsiveness
+• Added manual refresh button (⌘R)
             ]]></description>
             <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.2.1/WorkTreeBuddy.dmg"
                        type="application/octet-stream"
@@ -23,7 +26,10 @@
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <description><![CDATA[
-
+Performance improvements and new features:
+• Reduced UI spinning and improved responsiveness
+• Manual refresh button with ⌘R shortcut
+• Better error handling and async operations
             ]]></description>
             <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.2.0/WorkTreeBuddy.dmg"
                        type="application/octet-stream"
