@@ -5,6 +5,45 @@
         <description>Updates for WorkTreeBuddy</description>
         <language>en</language>
         <item>
+            <title>Version 1.3.2</title>
+            <pubDate>Thu, 14 Aug 2025 20:01:04 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <description><![CDATA[
+
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.3.2/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="2956081"
+                       sparkle:edSignature="Hoc4wAbgCRvfYeX0itfaMr7rTul10DVegKkZVq1TH61v4sieh9n1aQ3WDH4sxhQ/2faQ62RuzF9yKqwfHTitBQ==" />
+        </item>
+        <item>
+            <title>Version 1.3.1</title>
+            <pubDate>Thu, 14 Aug 2025 19:18:27 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <description><![CDATA[
+
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.3.1/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="2954077"
+                       sparkle:edSignature="cgEXzLEG9pqnyMCrJ0m/QKt03odnFmLM/2avWhrMrx4DLnYZ9tJcgo8j7yNfr9dukQWsCHKZmpiGF/Jm2ViOBg==" />
+        </item>
+        <item>
+            <title>Version 1.3.0</title>
+            <pubDate>Thu, 14 Aug 2025 18:57:57 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <description><![CDATA[
+
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.3.0/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="10931693"
+                       sparkle:edSignature="HJ3j1zXnTGgul92r1EUnWg08cXR9OVJc6oa+IxcoKwMtfIwleJn7a5zghzVO4WAiYUCFUcXmUrYx1sSaVAZHAA==" />
+        </item>
+        <item>
             <title>Version 1.3.0</title>
             <pubDate>Wed, 14 Aug 2025 18:50:00 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
