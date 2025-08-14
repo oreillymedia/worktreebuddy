@@ -5,6 +5,19 @@
         <description>Updates for WorkTreeBuddy</description>
         <language>en</language>
         <item>
+            <title>Version 1.2.1</title>
+            <pubDate>Thu, 14 Aug 2025 15:23:16 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <description><![CDATA[
+
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.2.1/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="2949192"
+                       sparkle:edSignature="Quevf9dYW0zA99IYszqa1FLpxRUlubVC5RJG1N4Su1LlyTz/cnVE4QnXqQHqrXUIeDyuSnLuipJ8X5i0ktyoBg==" />
+        </item>
+        <item>
             <title>Version 1.2.0</title>
             <pubDate>Thu, 14 Aug 2025 14:35:19 +0000</pubDate>
             <sparkle:version>6</sparkle:version>
