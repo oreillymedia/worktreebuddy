@@ -5,6 +5,72 @@
         <description>Updates for WorkTreeBuddy</description>
         <language>en</language>
         <item>
+            <title>Version 1.5.0</title>
+            <pubDate>Thu, 11 Sep 2025 14:49:26 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <description><![CDATA[
+            
+            ### Changed
+            - UI and performance improvements
+            
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.5.0/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="3091476"
+                       sparkle:edSignature="XIcG2xZD314E9s9rIzsfEpqfmIe5delHGr9QlITUyDRs285fek3JUNOQt0xh0W59uoIVT7c21lMoeBzO1oXMCQ==" />
+        </item>
+        <item>
+            <title>Version 1.5.0</title>
+            <pubDate>Wed, 10 Sep 2025 21:29:34 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <description><![CDATA[
+            
+            ### Changed
+            - UI and performance improvements
+            
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.5.0/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="3091365"
+                       sparkle:edSignature="h3Z4pyjb9C7oC+/M0AKpbUnUY1ZKE5baINxi1VyrtNXdkxKheELPObUty/M+Z+J42dSga7NoVr3RyZByK7cOCg==" />
+        </item>
+        <item>
+            <title>Version 1.4.0</title>
+            <pubDate>Wed, 10 Sep 2025 21:26:01 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <description><![CDATA[
+            
+            ### Changed
+            - Version bump for release automation improvements
+            - Updated to version 1.4.0
+            
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.4.0/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="3091435"
+                       sparkle:edSignature="tFeSiaDM1VP7d80k5GL+1kdqJ3aR0hmd0dNGtJFmJ/5nojNSNmMvcH86eFmM3DYlGafQmgoDZ8z5x5w+zlgjCg==" />
+        </item>
+        <item>
+            <title>Version 1.4.0</title>
+            <pubDate>Wed, 10 Sep 2025 21:24:04 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <description><![CDATA[
+            
+            ### Changed
+            - Version bump for release automation improvements
+            - Updated to version 1.4.0
+            
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.4.0/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="3091441"
+                       sparkle:edSignature="sF25OAxhEZi7tAkHB+bgogE52i7JWMz8CMGDhdwHpxyAK3GDdyiXQ52bvRluV1O0cozm3EX4uwiuZzhcUCHGAQ==" />
+        </item>
+        <item>
             <title>Version 1.4.0</title>
             <pubDate>Fri, 29 Aug 2025 21:56:43 +0000</pubDate>
             <sparkle:version>14</sparkle:version>
