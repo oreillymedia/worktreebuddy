@@ -6,6 +6,40 @@
         <language>en</language>
         <item>
             <title>Version 1.5.1</title>
+            <pubDate>Fri, 12 Sep 2025 22:20:10 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <description><![CDATA[
+            
+            ### Changed
+            - Replaced Refresh button with Settings button in main UI
+            - Settings button now properly opens preferences window with hover effects
+            
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.5.1/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="3124906"
+                       sparkle:edSignature="kuRpde68mwOzwJMLfzilYKY0wP9J1jM4NZnl2IoGK6cooe9+9GgqMPc+ZPpQj5y0sTqtNnHg9pZoOBE8ILjoBw==" />
+        </item>
+        <item>
+            <title>Version 1.5.1</title>
+            <pubDate>Fri, 12 Sep 2025 21:44:47 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <description><![CDATA[
+            
+            ### Changed
+            - Replaced Refresh button with Settings button in main UI
+            - Settings button now properly opens preferences window with hover effects
+            
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.5.1/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="3124840"
+                       sparkle:edSignature="NKWGd+/sDkEUZHCkY3qyNuAz678JOdRohYxUPS9xn59jIUA2sOPZ1gZ3u/4Ksba8kZls3V2MMYs+kLHElL9pBQ==" />
+        </item>
+        <item>
+            <title>Version 1.5.1</title>
             <pubDate>Fri, 12 Sep 2025 14:29:21 +0000</pubDate>
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
