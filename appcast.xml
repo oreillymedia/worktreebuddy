@@ -5,6 +5,42 @@
         <description>Updates for WorkTreeBuddy</description>
         <language>en</language>
         <item>
+            <title>Version 1.6.0</title>
+            <pubDate>Mon, 15 Sep 2025 15:42:49 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <description><![CDATA[
+            
+            ### Added
+            - Support for Ghostty terminal
+            
+            ### Changed
+            - Improved Preferences window
+            
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.6.0/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="3430345"
+                       sparkle:edSignature="EDWGzaxqr5q00H9F8cqPsqwoFkLSz89r98JplVXKwGHqnVC1HnFlsVEWNxQUDz2G7ojzJBbbp4dtI67RKc1kCg==" />
+        </item>
+        <item>
+            <title>Version 1.5.1</title>
+            <pubDate>Fri, 12 Sep 2025 22:20:10 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <description><![CDATA[
+            
+            ### Changed
+            - Replaced Refresh button with Settings button in main UI
+            - Settings button now properly opens preferences window with hover effects
+            
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.5.1/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="3124906"
+                       sparkle:edSignature="kuRpde68mwOzwJMLfzilYKY0wP9J1jM4NZnl2IoGK6cooe9+9GgqMPc+ZPpQj5y0sTqtNnHg9pZoOBE8ILjoBw==" />
+        </item>
+        <item>
             <title>Version 1.5.1</title>
             <pubDate>Fri, 12 Sep 2025 21:44:47 +0000</pubDate>
             <sparkle:version>19</sparkle:version>
