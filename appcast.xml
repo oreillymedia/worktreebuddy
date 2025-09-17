@@ -6,6 +6,25 @@
         <language>en</language>
         <item>
             <title>Version 1.6.0</title>
+            <pubDate>Wed, 17 Sep 2025 15:07:50 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <description><![CDATA[
+            
+            ### Added
+            - Support for Ghostty terminal
+            
+            ### Changed
+            - Improved Preferences window
+            
+            ]]></description>
+            <enclosure url="https://github.com/oreillymedia/worktreebuddy/releases/download/v1.6.0/WorkTreeBuddy.dmg"
+                       type="application/octet-stream"
+                       length="2990106"
+                       sparkle:edSignature="pQWTndUwit7QeH1Nti7zpjsJaEVgQ7kTv/oQF88zknj6OteHH+DG1dKzb7slfqeL1wJZUN/OpvF80wLyAwdGDA==" />
+        </item>
+        <item>
+            <title>Version 1.6.0</title>
             <pubDate>Mon, 15 Sep 2025 15:42:49 +0000</pubDate>
             <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
